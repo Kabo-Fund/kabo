@@ -1,4 +1,5 @@
 # Kabo Contract
 To do:<br>
-- [ ] Dividends include 
-- [ ] Add uniswap
+- [ ] include dividends payment
+- [ ] Add to Uniswap
+- [ ] Add to Trust Wallet
