@@ -1,3 +1,4 @@
 # Kabo Contract
-To do:
-Dividends Include 
+To do:<br>
+- [ ] Dividends include 
+- [ ] Add uniswap
