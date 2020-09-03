@@ -1,4 +1,4 @@
-# Kabo Contract
+# Kabo Contract and Dapp
 To do:<br>
 - [ ] Include dividends payment
 - [ ] Add to Uniswap
