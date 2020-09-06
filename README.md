@@ -4,4 +4,5 @@ To do:<br>
 - [ ] Add to Uniswap
 - [ ] Add to Trust Wallet
 - [ ] Add Totle
+- [ ] Web Wallet
 
