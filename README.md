@@ -6,3 +6,5 @@ To do:<br>
 - [ ] Add Totle
 - [ ] Web Wallet
 
+# API Integration: Yield Farming
+= AAVE [developers.aave.com](https://developers.aave.com)
