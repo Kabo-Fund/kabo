@@ -7,4 +7,5 @@ To do:<br>
 - [ ] Web Wallet
 
 # API Integration: Yield Farming
-= AAVE [developers.aave.com](https://developers.aave.com)
+- AAVE [developers.aave.com](https://developers.aave.com)
+- Balancer [balancer-core](https://github.com/balancer-labs/balancer-core)
