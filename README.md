@@ -9,3 +9,5 @@ To do:<br>
 # API Integration: Yield Farming
 - AAVE [developers.aave.com](https://developers.aave.com)
 - Balancer [balancer-core](https://github.com/balancer-labs/balancer-core)
+- Curve [curve-pool-registry](https://github.com/curvefi/curve-pool-registry)
+
