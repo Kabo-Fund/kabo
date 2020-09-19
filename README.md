@@ -11,5 +11,7 @@ To do:<br>
 - Balancer [balancer-core](https://github.com/balancer-labs/balancer-core)
 - Curve [curve-pool-registry](https://github.com/curvefi/curve-pool-registry)
 - Synthetix [synthetix-js](https://github.com/Synthetixio/synthetix-js)
+- Compound Labs [compound-js](https://github.com/compound-finance/compound-js)
+
 
 
