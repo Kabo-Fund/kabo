@@ -13,6 +13,7 @@ To do:<br>
 - Synthetix [synthetix-js](https://github.com/Synthetixio/synthetix-js)
 - Compound Labs [compound-js](https://github.com/compound-finance/compound-js)
 - yearn.finance [yearn-protocol](https://github.com/iearn-finance/yearn-protocol)
+- Ren [ren-js](https://github.com/renproject/ren-js)
 
 
 
