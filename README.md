@@ -16,5 +16,6 @@ To do:<br>
 - Ren [ren-js](https://github.com/renproject/ren-js)
 
 # AMM Integration
+- Uniswap [uniswap-sdk](https://github.com/Uniswap/uniswap-sdk)
 
 
