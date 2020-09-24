@@ -23,5 +23,7 @@ To do:<br>
 
 # AMM Integration
 - Uniswap [uniswap-sdk](https://github.com/Uniswap/uniswap-sdk)
+- Kyber [KyberSwap](https://github.com/KyberNetwork/KyberSwap)
+
 
 
