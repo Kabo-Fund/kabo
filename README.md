@@ -27,5 +27,13 @@ To do:<br>
 - Balancer
 - Curve
 
+# Yearn Finance
+## [yearn.finance](https://yearn.finance)
+The [yearn.finance](https://yearn.finance) ecosystem consists of the following products
+- [yearn.finance](https://yearn.finance) - Profit switching lender to optimize lending yields \(live\)
+- [ytrade.finance](https://ytrade.finance) - Leveraged stable coin trades \(testnet\)
+- [yliquidate.finance](https://yliquidate.finance) - 0 capital automated liquidations for [Aave]
+
+
 
 
